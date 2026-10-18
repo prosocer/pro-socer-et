@@ -1,0 +1,6 @@
+{
+  "name": "oriscore - AI Football Prediction & Analytics",
+  "description": "oriscore advanced AI football predictions, 1x odds extreme analyzer, real-time fixtures, double chance markets, and private access verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

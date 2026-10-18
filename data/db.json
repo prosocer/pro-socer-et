@@ -1,0 +1,58 @@
+{
+  "requests": [
+    {
+      "id": "req-admin-01",
+      "name": "Administrator",
+      "email": "admin@prosoccer.et",
+      "status": "approved",
+      "role": "admin",
+      "createdAt": "2026-10-15T10:00:00.000Z",
+      "updatedAt": "2026-10-15T10:00:00.000Z"
+    },
+    {
+      "id": "req-002",
+      "name": "Abebe Kebede",
+      "email": "abebe.k@gmail.com",
+      "status": "approved",
+      "role": "member",
+      "createdAt": "2026-10-16T14:30:00.000Z",
+      "updatedAt": "2026-10-16T14:45:00.000Z"
+    },
+    {
+      "id": "req-003",
+      "name": "Dawit Tesfaye",
+      "email": "dawit.t@yahoo.com",
+      "status": "approved",
+      "role": "member",
+      "createdAt": "2026-10-17T08:15:00.000Z",
+      "updatedAt": "2026-10-18T00:49:46.047Z"
+    }
+  ],
+  "predictions": [
+    {
+      "id": "pred-001",
+      "match": "Arsenal vs Chelsea",
+      "league": "Premier League",
+      "predictionText": "ARSENAL WIN (1) • 1X DOUBLE CHANCE (1.22) • OVER 2.5 GOALS (1.85) • SCORE 2-1",
+      "selectedMarkets": [
+        "ARSENAL WIN (1)",
+        "1X DOUBLE CHANCE (1.22)",
+        "OVER 2.5 GOALS (1.85)",
+        "Score 2-1"
+      ],
+      "targetOddsRange": "1.50 - 2.50 (Balanced)",
+      "durationOption": "Today's Fixtures",
+      "confidenceScore": 96,
+      "extremeMetrics": {
+        "winProbabilityHome": 54,
+        "winProbabilityDraw": 25,
+        "winProbabilityAway": 21,
+        "projectedGoals": 2.8,
+        "xGFactor": "2.15 vs 1.35",
+        "keyDriver": "Form + H2H (5W-2D-1L) & Bukayo Saka in form"
+      },
+      "timestamp": "2026-10-18T00:51:26.407Z",
+      "status": "PENDING"
+    }
+  ]
+}
